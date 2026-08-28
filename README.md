@@ -3,6 +3,7 @@
 My name is Jeff and I'm a software engineer from sunny southern California.  This is my space to experiment on new ideas and projects.
 
 🔭 I’m currently working on way too many projects to name out.
+
 🌱 I’m currently learning about how to effectively use GitHub. 
 
 <!--
