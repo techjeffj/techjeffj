@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Jeff and I'm a software engineer from sunny southern California.  This is my space to experiment on new ideas and projects.
+
+🔭 I’m currently working on way too many projects to name out.
+🌱 I’m currently learning about how to effectively use GitHub. 
+
 <!--
 **techjeffj/techjeffj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
